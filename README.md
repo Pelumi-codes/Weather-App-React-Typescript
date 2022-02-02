@@ -1,3 +1,15 @@
+<a href=>Link to App</a>
+
+
+Create .env file in src folder
+
+{
+
+    REACT_APP_OPEN_WEATHER_API_KEY = "YOUR_API_KEY"
+
+}
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

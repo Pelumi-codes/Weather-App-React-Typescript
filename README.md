@@ -1,4 +1,4 @@
-<a href= "https://condescending-carson-da29ee.netlify.app/">Link to App</a>
+<a href="https://condescending-carson-da29ee.netlify.app/">Link to App</a>
 
 
 Create .env file in src folder
